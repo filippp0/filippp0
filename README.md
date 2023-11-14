@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, меня зовут Филипп Колесников</h1>
-<h3 align="center">Frontend developer из России</h3>
+<h3 align="center">Front-end developer из России</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=filippp0&label=Profile%20views&color=0e75b6&style=flat" alt="filippp0" /> </p>
 
